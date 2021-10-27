@@ -1,10 +1,19 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 import json
 from random import randint
+from starlette.responses import FileResponse 
+from fastapi.templating import Jinja2Templates
+
 with open('clonewarsquotes_eng.json','r') as f:
     data = json.load(f)
+templates = Jinja2Templates(directory="templates")
 
 app = FastAPI()
+
+@app.get('/')
+def root(request : Request):
+    return templates.TemplateResponse("index.html",{"request" : request,"quote": get_random_quote()})
+
 
 @app.get('/all_quotes/')
 def get_all():
