@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException
 import json
 from random import randint
-with open('conewarsquotes.json','r') as f:
+with open('clonewarsquotes_eng.json','r') as f:
     data = json.load(f)
 
 app = FastAPI()
