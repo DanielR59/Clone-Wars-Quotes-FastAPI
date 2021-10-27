@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException, Request
+from fastapi import FastAPI, HTTPException, Request, Query
 import json
 from random import randint
 from starlette.responses import FileResponse 
@@ -22,7 +22,7 @@ def get_all():
 
 @app.get('/random_quote/')
 def get_random_quote(language : str = "eng", just_quote : bool = True):
-    quote_id = randint(1,132)
+    quote_id = randint(1,128) #Son 132, pero los ultimos capitulos no tienen
     for element in data:
         # print(element)
         if element["id"] == quote_id:
@@ -33,11 +33,14 @@ def get_random_quote(language : str = "eng", just_quote : bool = True):
     raise HTTPException(status_code=404,detail="Quote not found")
 
 @app.get('/quotes/')
-def get_quote_by_chapter_season(season : int, chapter:int, language :str = "eng"):
+def get_quote_by_chapter_season(season : int = Query(...,gt=0,le=7), chapter:int = Query(...,gt=0,le=22), language :str = "eng", just_quote : bool = True):
     for element in data:
         print(element)
         if element["season"] == season and element["chapter"] == chapter:
-            return element
+            if just_quote:
+                return element["quote"]
+            else:
+                return element
     raise HTTPException(status_code=404, detail="Chapter not found") 
 
  
