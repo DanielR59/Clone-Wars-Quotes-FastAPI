@@ -1,0 +1,722 @@
+[
+    {
+        "id": 1,
+        "season": 1,
+        "chapter": 1,
+        "quote": " El gran liderazgo viene en todos los tamaños."
+    },
+    {
+        "id": 2,
+        "season": 1,
+        "chapter": 2,
+        "quote": " La fe no es cuestión de decisión sino una convicción."
+    },
+    {
+        "id": 3,
+        "season": 1,
+        "chapter": 3,
+        "quote": " El camino a la sabiduría es sencillo para aquellos que no se dejan cegar por el ego."
+    },
+    {
+        "id": 4,
+        "season": 1,
+        "chapter": 4,
+        "quote": " La utilidad de un plan depende de aquellos que lo llevan acabo."
+    },
+    {
+        "id": 5,
+        "season": 1,
+        "chapter": 5,
+        "quote": " La experiencia es mejor forjadora que la confianza."
+    },
+    {
+        "id": 6,
+        "season": 1,
+        "chapter": 6,
+        "quote": " Encontrar un amigo no es fácil, dejarlo es difícil, olvidarlo imposible."
+    },
+    {
+        "id": 7,
+        "season": 1,
+        "chapter": 7,
+        "quote": " Conserva a tus amigos apretando el corazón mas que a la cabeza."
+    },
+    {
+        "id": 8,
+        "season": 1,
+        "chapter": 8,
+        "quote": " Las épocas hacen a los héroes."
+    },
+    {
+        "id": 9,
+        "season": 1,
+        "chapter": 9,
+        "quote": " Ignora tus instintos bajo tu propio riesgo."
+    },
+    {
+        "id": 10,
+        "season": 1,
+        "chapter": 10,
+        "quote": " El mas poderoso es aquel que controla su propio poder."
+    },
+    {
+        "id": 11,
+        "season": 1,
+        "chapter": 11,
+        "quote": " El largo camino a la paz siempre es digno de recorrer no importa cuanto lleve llegar a ella."
+    },
+    {
+        "id": 12,
+        "season": 1,
+        "chapter": 12,
+        "quote": " Fracasa con honor en vez de triunfar con engaños."
+    },
+    {
+        "id": 13,
+        "season": 1,
+        "chapter": 13,
+        "quote": " La avaricia y el temor de la perdida son las raíces que llevan al árbol de la maldad."
+    },
+    {
+        "id": 14,
+        "season": 1,
+        "chapter": 14,
+        "quote": " En la guerra tarde o temprano debes elegir un bando."
+    },
+    {
+        "id": 15,
+        "season": 1,
+        "chapter": 15,
+        "quote": " La arrogancia desmerita la sabiduría"
+    },
+    {
+        "id": 16,
+        "season": 1,
+        "chapter": 16,
+        "quote": " La verdad ilumina la mente pero no siempre lleva la felicidad al corazón."
+    },
+    {
+        "id": 17,
+        "season": 1,
+        "chapter": 17,
+        "quote": "El miedo es una enfermedad la esperanza es la única cura."
+    },
+    {
+        "id": 18,
+        "season": 1,
+        "chapter": 18,
+        "quote": " Una sola oportunidad es una galaxia de esperanza."
+    },
+    {
+        "id": 19,
+        "season": 1,
+        "chapter": 19,
+        "quote": " Tortuoso es el camino a la grandeza."
+    },
+    {
+        "id": 20,
+        "season": 1,
+        "chapter": 20,
+        "quote": " Los costos de la guerra realmente nunca pueden contabilizarse."
+    },
+    {
+        "id": 21,
+        "season": 1,
+        "chapter": 21,
+        "quote": " El compromiso es una virtud que debe cosecharse, no una debilidad a despreciar."
+    },
+    {
+        "id": 22,
+        "season": 1,
+        "chapter": 22,
+        "quote": " Un secreto compartido forja la confianza\""
+    },
+    {
+        "id": 23,
+        "season": 2,
+        "chapter": 1,
+        "quote": " Una lección aprendida es una lección ganada."
+    },
+    {
+        "id": 24,
+        "season": 2,
+        "chapter": 2,
+        "quote": " El exceso de confianza es el mas peligroso de los descuidos."
+    },
+    {
+        "id": 25,
+        "season": 2,
+        "chapter": 3,
+        "quote": " El primer paso para corregir un error es la paciencia."
+    },
+    {
+        "id": 26,
+        "season": 2,
+        "chapter": 4,
+        "quote": " Nunca dudes de un corazón sincero."
+    },
+    {
+        "id": 27,
+        "season": 2,
+        "chapter": 5,
+        "quote": " Debes creer en ti mismo o nadie lo hará."
+    },
+    {
+        "id": 28,
+        "season": 2,
+        "chapter": 6,
+        "quote": " No hay regalo mas valioso que la confianza."
+    },
+    {
+        "id": 29,
+        "season": 2,
+        "chapter": 7,
+        "quote": " A veces, aceptar ayuda es más difícil que ofrecerla."
+    },
+    {
+        "id": 30,
+        "season": 2,
+        "chapter": 8,
+        "quote": " El apego no es compasión."
+    },
+    {
+        "id": 31,
+        "season": 2,
+        "chapter": 9,
+        "quote": " Para ganar algo, tienes que perder algo"
+    },
+    {
+        "id": 32,
+        "season": 2,
+        "chapter": 10,
+        "quote": " La busqueda del honor es lo que lo hace a uno honorable."
+    },
+    {
+        "id": 33,
+        "season": 2,
+        "chapter": 11,
+        "quote": " Lo fácil no siempre es sencillo."
+    },
+    {
+        "id": 34,
+        "season": 2,
+        "chapter": 12,
+        "quote": " No tener en cuenta el pasado pone en peligro el futuro."
+    },
+    {
+        "id": 35,
+        "season": 2,
+        "chapter": 13,
+        "quote": " No temas al futuro, no llores por el pasado."
+    },
+    {
+        "id": 36,
+        "season": 2,
+        "chapter": 14,
+        "quote": " En la guerra, la verdad es la primera victima."
+    },
+    {
+        "id": 37,
+        "season": 2,
+        "chapter": 15,
+        "quote": " Buscar la verdad es fácil, aceptar la verdad es difícil."
+    },
+    {
+        "id": 38,
+        "season": 2,
+        "chapter": 16,
+        "quote": " Un líder sabio sabe cuando seguir a otros."
+    },
+    {
+        "id": 39,
+        "season": 2,
+        "chapter": 17,
+        "quote": " La valentía hace a los héroes, pero la confianza construye la amistad."
+    },
+    {
+        "id": 40,
+        "season": 2,
+        "chapter": 18,
+        "quote": " Elige lo que es correcto, no lo que es fácil."
+    },
+    {
+        "id": 41,
+        "season": 2,
+        "chapter": 19,
+        "quote": " La bestia mas peligrosa es la que está en el interior."
+    },
+    {
+        "id": 42,
+        "season": 2,
+        "chapter": 20,
+        "quote": " Quien fue mi padre importa menos que el recuerdo que tengo de él."
+    },
+    {
+        "id": 43,
+        "season": 2,
+        "chapter": 21,
+        "quote": " La adversidad es el mayor desafío para la amistad."
+    },
+    {
+        "id": 44,
+        "season": 2,
+        "chapter": 22,
+        "quote": " La venganza es la confesión del dolor."
+    },
+    {
+        "id": 45,
+        "season": 3,
+        "chapter": 1,
+        "quote": " Los hermanos en combate son hermanos de por vida."
+    },
+    {
+        "id": 46,
+        "season": 3,
+        "chapter": 2,
+        "quote": " Pelear en una guerra pone a prueba la destreza del soldado, defender su hogar pone a prueba su corazón."
+    },
+    {
+        "id": 47,
+        "season": 3,
+        "chapter": 3,
+        "quote": " El que quiere, puede."
+    },
+    {
+        "id": 48,
+        "season": 3,
+        "chapter": 4,
+        "quote": " Un niño robado es la esperanza perdida."
+    },
+    {
+        "id": 49,
+        "season": 3,
+        "chapter": 5,
+        "quote": " El reto de la esperanza es vencer la corrupción."
+    },
+    {
+        "id": 50,
+        "season": 3,
+        "chapter": 6,
+        "quote": " Los que imponen la ley, deben obedecer la ley."
+    },
+    {
+        "id": 51,
+        "season": 3,
+        "chapter": 7,
+        "quote": " El futuro tiene muchos caminos, elige con sabiduría."
+    },
+    {
+        "id": 52,
+        "season": 3,
+        "chapter": 8,
+        "quote": " No planear algo es el mejor plan para el fracaso."
+    },
+    {
+        "id": 53,
+        "season": 3,
+        "chapter": 9,
+        "quote": " El amor viene en todas las formas y tamaños."
+    },
+    {
+        "id": 54,
+        "season": 3,
+        "chapter": 10,
+        "quote": " El miedo es un gran motivador."
+    },
+    {
+        "id": 55,
+        "season": 3,
+        "chapter": 11,
+        "quote": " La verdad ahuyenta los fantasmas del miedo."
+    },
+    {
+        "id": 56,
+        "season": 3,
+        "chapter": 12,
+        "quote": " La venganza es el camino mas seguro hacia la destrucción."
+    },
+    {
+        "id": 57,
+        "season": 3,
+        "chapter": 13,
+        "quote": " Con la maldad no se nace, se aprende."
+    },
+    {
+        "id": 58,
+        "season": 3,
+        "chapter": 14,
+        "quote": " El sendero de la maldad puede traer mucho poder pero no lealtad."
+    },
+    {
+        "id": 59,
+        "season": 3,
+        "chapter": 15,
+        "quote": " El equilibrio esta en aquel que acepta su culpa."
+    },
+    {
+        "id": 60,
+        "season": 3,
+        "chapter": 16,
+        "quote": " Aquel que pierde la esperanza, renuncia a la vida."
+    },
+    {
+        "id": 61,
+        "season": 3,
+        "chapter": 17,
+        "quote": " El que busca controlar el destino jamas encontrara la paz."
+    },
+    {
+        "id": 62,
+        "season": 3,
+        "chapter": 18,
+        "quote": " La adaptación es la clave para la sobrevivencia."
+    },
+    {
+        "id": 63,
+        "season": 3,
+        "chapter": 19,
+        "quote": " Todo lo que pueda salir mal saldrá mal."
+    },
+    {
+        "id": 64,
+        "season": 3,
+        "chapter": 20,
+        "quote": " Sin honor la victoria es vacía."
+    },
+    {
+        "id": 65,
+        "season": 3,
+        "chapter": 21,
+        "quote": " Sin humildad el valor es un juego peligroso."
+    },
+    {
+        "id": 66,
+        "season": 4,
+        "chapter": 1,
+        "quote": " Cuando el destino llama, los elegidos no tienen opción."
+    },
+    {
+        "id": 67,
+        "season": 4,
+        "chapter": 2,
+        "quote": " Una espada fuerte solo se forja con fuego."
+    },
+    {
+        "id": 68,
+        "season": 4,
+        "chapter": 3,
+        "quote": " Las coronas se heredan, los reinos se ganan."
+    },
+    {
+        "id": 69,
+        "season": 4,
+        "chapter": 4,
+        "quote": " Quien es realmente una persona, no puede ser visto por el ojo."
+    },
+    {
+        "id": 70,
+        "season": 4,
+        "chapter": 5,
+        "quote": " Entender es honrar la verdad que se oculta bajo la superficie."
+    },
+    {
+        "id": 71,
+        "season": 4,
+        "chapter": 6,
+        "quote": " Quien está peor: ¿El tonto o el tonto que lo sigue?"
+    },
+    {
+        "id": 72,
+        "season": 4,
+        "chapter": 7,
+        "quote": " El primer paso hacia la lealtad es la confianza."
+    },
+    {
+        "id": 73,
+        "season": 4,
+        "chapter": 8,
+        "quote": " El camino de la ignorancia es guiado por el miedo."
+    },
+    {
+        "id": 74,
+        "season": 4,
+        "chapter": 9,
+        "quote": " El ignorante sigue, el sabio guía."
+    },
+    {
+        "id": 75,
+        "season": 4,
+        "chapter": 10,
+        "quote": " Nuestros actos definen nuestro legado."
+    },
+    {
+        "id": 76,
+        "season": 4,
+        "chapter": 11,
+        "quote": " Nuestro destino siempre refleja nuestro origen."
+    },
+    {
+        "id": 77,
+        "season": 4,
+        "chapter": 12,
+        "quote": " Aquellos que esclavizan a los demás, inevitablemente se vuelven esclavos de ellos mismos."
+    },
+    {
+        "id": 78,
+        "season": 4,
+        "chapter": 13,
+        "quote": " Pequeños sacrificios pueden generar mucha esperanza."
+    },
+    {
+        "id": 79,
+        "season": 4,
+        "chapter": 14,
+        "quote": " La amistad nos muestra quienes somos en realidad."
+    },
+    {
+        "id": 80,
+        "season": 4,
+        "chapter": 15,
+        "quote": " Todas las tácticas de guerra se basan en la decepción."
+    },
+    {
+        "id": 81,
+        "season": 4,
+        "chapter": 16,
+        "quote": " Mantén a tus amigos cerca, pero a tus enemigos mantenlos más cerca."
+    },
+    {
+        "id": 82,
+        "season": 4,
+        "chapter": 17,
+        "quote": " El fuerte sobrevive, el noble vence."
+    },
+    {
+        "id": 83,
+        "season": 4,
+        "chapter": 18,
+        "quote": " La confianza es el regalo mas grande de todos, pero debe ganarse."
+    },
+    {
+        "id": 84,
+        "season": 4,
+        "chapter": 19,
+        "quote": " Hay que soltar el pasado para agarrarse al futuro."
+    },
+    {
+        "id": 85,
+        "season": 4,
+        "chapter": 20,
+        "quote": " Quienes somos jamás cambia, quienes creemos que somos si."
+    },
+    {
+        "id": 86,
+        "season": 4,
+        "chapter": 21,
+        "quote": " Un enemigo caído puede levantarse de nuevo, pero el resignado es el verdadero derrotado."
+    },
+    {
+        "id": 87,
+        "season": 4,
+        "chapter": 22,
+        "quote": " El enemigo de mi enemigo es mi amigo."
+    },
+    {
+        "id": 88,
+        "season": 5,
+        "chapter": 1,
+        "quote": " La fuerza de carácter vence a la fuerza en número."
+    },
+    {
+        "id": 89,
+        "season": 5,
+        "chapter": 2,
+        "quote": " El miedo es un arma maleable."
+    },
+    {
+        "id": 90,
+        "season": 5,
+        "chapter": 3,
+        "quote": " Buscar algo es creer en sus posibilidades."
+    },
+    {
+        "id": 91,
+        "season": 5,
+        "chapter": 4,
+        "quote": " Los enfrentamientos suelen comenzar y terminar con la verdad."
+    },
+    {
+        "id": 92,
+        "season": 5,
+        "chapter": 5,
+        "quote": " La desobediencia es la exigencia de un cambio."
+    },
+    {
+        "id": 93,
+        "season": 5,
+        "chapter": 6,
+        "quote": " Quien se enfrenta a si mismo, se encuentra."
+    },
+    {
+        "id": 94,
+        "season": 5,
+        "chapter": 7,
+        "quote": " Los jóvenes no siempre son comprendidos."
+    },
+    {
+        "id": 95,
+        "season": 5,
+        "chapter": 8,
+        "quote": " Cuando rescatamos a otros, nos rescatamos a nosotros mismos."
+    },
+    {
+        "id": 96,
+        "season": 5,
+        "chapter": 9,
+        "quote": " Elige cuidadosamente a tus enemigos, pues pueden convertirse en tu última esperanza."
+    },
+    {
+        "id": 97,
+        "season": 5,
+        "chapter": 10,
+        "quote": " La humildad es la única defensa contra la humillación."
+    },
+    {
+        "id": 98,
+        "season": 5,
+        "chapter": 11,
+        "quote": " El verdadero héroe surge cuando todo parece perdido."
+    },
+    {
+        "id": 99,
+        "season": 5,
+        "chapter": 12,
+        "quote": " El arma más poderosa de un soldado es el valor."
+    },
+    {
+        "id": 100,
+        "season": 5,
+        "chapter": 13,
+        "quote": " Debes confiar en otros o triunfar se volverá imposible."
+    },
+    {
+        "id": 101,
+        "season": 5,
+        "chapter": 14,
+        "quote": " Una visión puede tener muchas interpretaciones."
+    },
+    {
+        "id": 102,
+        "season": 5,
+        "chapter": 15,
+        "quote": " Las alianzas pueden frenar las verdaderas intenciones."
+    },
+    {
+        "id": 103,
+        "season": 5,
+        "chapter": 16,
+        "quote": " La moral separa a los héroes de los villanos."
+    },
+    {
+        "id": 104,
+        "season": 5,
+        "chapter": 17,
+        "quote": " A veces la duda más pequeña puede sacudir la fé más fuerte."
+    },
+    {
+        "id": 105,
+        "season": 5,
+        "chapter": 18,
+        "quote": " El valor comienza confiando en uno mismo."
+    },
+    {
+        "id": 106,
+        "season": 5,
+        "chapter": 19,
+        "quote": " Nunca hagas que la desesperación te haga confiar en quienes no son de fiar."
+    },
+    {
+        "id": 107,
+        "season": 5,
+        "chapter": 20,
+        "quote": " Jamás pierdas la esperanza, no importa lo negro que todo parezca."
+    },
+    {
+        "id": 108,
+        "season": 6,
+        "chapter": 1,
+        "quote": " La verdad acerca de uno mismo es la más difícil de aceptar."
+    },
+    {
+        "id": 109,
+        "season": 6,
+        "chapter": 2,
+        "quote": " El sabio se beneficia de una segunda opinión."
+    },
+    {
+        "id": 110,
+        "season": 6,
+        "chapter": 3,
+        "quote": " Cuando dudes acude a la fuente."
+    },
+    {
+        "id": 111,
+        "season": 6,
+        "chapter": 4,
+        "quote": " La creencia popular no siempre es la acertada."
+    },
+    {
+        "id": 112,
+        "season": 6,
+        "chapter": 5,
+        "quote": " Amar es confiar, confiar es creer."
+    },
+    {
+        "id": 113,
+        "season": 6,
+        "chapter": 6,
+        "quote": " Los celos son el camino al caos."
+    },
+    {
+        "id": 114,
+        "season": 6,
+        "chapter": 7,
+        "quote": " El engaño es el arma de la avaricia."
+    },
+    {
+        "id": 115,
+        "season": 6,
+        "chapter": 8,
+        "quote": " Sin oscuridad no puede haber luz."
+    },
+    {
+        "id": 116,
+        "season": 6,
+        "chapter": 9,
+        "quote": " La sabiduría nace en los tontos así como en los sabios."
+    },
+    {
+        "id": 117,
+        "season": 6,
+        "chapter": 10,
+        "quote": " Lo perdido con frecuencia se encuentra."
+    },
+    {
+        "id": 118,
+        "season": 6,
+        "chapter": 11,
+        "quote": " La demencia a veces puede conducir a la verdad."
+    },
+    {
+        "id": 119,
+        "season": 6,
+        "chapter": 12,
+        "quote": " La muerte es solo el comienzo."
+    },
+    {
+        "id": 120,
+        "season": 6,
+        "chapter": 13,
+        "quote": " Enfrentar tus miedos te liberará de ti mismo."
+    }
+]
