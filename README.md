@@ -1,5 +1,21 @@
 # Clone-Wars-Quotes-FastAPI
 
-Utilizando FastAPI se generó una sencilla API para obtener las frases de los capítulos de Star Wars Clone Wars
+An API for getting Star Wars Clone Wars quotes using FastAPI
 
-[https://star-wars-clone-wars-quotes.herokuapp.com/](https://star-wars-clone-wars-quotes.herokuapp.com/)
+[Clone Wars Quotes](https://star-wars-clone-wars-quotes.herokuapp.com/)
+
+
+##  Current Supported languages
+
+* Español
+
+![pagina de inicio](./images/inicio_esp.png)
+
+* English
+
+![pagina de inicio](./images/inicio.png)
+
+## Documentation
+[how to use](https://star-wars-clone-wars-quotes.herokuapp.com/)
+
+![docs](./images/docs.png)
