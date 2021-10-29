@@ -16,6 +16,6 @@ An API for getting Star Wars Clone Wars quotes using FastAPI
 ![pagina de inicio](./images/inicio.png)
 
 ## Documentation
-[how to use](https://star-wars-clone-wars-quotes.herokuapp.com/)
+[How to use](https://star-wars-clone-wars-quotes.herokuapp.com/docs)
 
 ![docs](./images/docs.png)
