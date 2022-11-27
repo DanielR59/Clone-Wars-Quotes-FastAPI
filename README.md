@@ -2,7 +2,7 @@
 
 An API for getting Star Wars Clone Wars quotes using FastAPI
 
-[Clone Wars Quotes](https://star-wars-clone-wars-quotes.herokuapp.com/)
+[Clone Wars Quotes](https://clonewarsquotes.fly.dev/en)
 
 
 ##  Current Supported languages
@@ -16,6 +16,6 @@ An API for getting Star Wars Clone Wars quotes using FastAPI
 ![pagina de inicio](./images/inicio.png)
 
 ## Documentation
-[How to use](https://star-wars-clone-wars-quotes.herokuapp.com/docs)
+[How to use](https://clonewarsquotes.fly.dev/docs)
 
 ![docs](./images/docs.png)
